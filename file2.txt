@@ -1,3 +1,3 @@
 Hello this is the first line
-Hello this is the second line - some change in b
+Hello this is the second line - I will make this change to create a conflict
 Hello this is the third line - definitely overriding stuff
